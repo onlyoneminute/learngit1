@@ -3,4 +3,4 @@ Git is free software.
 use vi command to modify file
 git commit tree test once again
 once again new line once more again haha
-creating a new branch is quick & simple
+creating a new branch is quick AND simple
